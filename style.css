@@ -1,0 +1,185 @@
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    overflow-x: hidden;
+
+}
+.d-flex{
+   
+   margin-left: 100px;
+}
+h4 {
+   background-color: purple;
+  
+}
+.card-box{
+   display: flex;
+   gap: 15px;
+}
+.card1{
+   margin-top: 50px;
+   margin-bottom: 100px;
+   
+}
+
+.container2 ,p{
+
+   margin-top: 20px;
+}
+.lowercase{
+   display: flex;
+}
+
+.bar{
+
+   height: 5px;
+   background-color: green;
+   width: 60px;
+   border-radius: 5px;
+   position: relative;
+   bottom: 2px;
+
+}
+ .bar1{
+
+   height: 5px;
+   background-color: green;
+   width: 20px;
+   border-radius: 5px;
+   position: relative;
+   bottom: 2px;
+}
+.container p i {
+   opacity: 120;
+}
+
+h4 p{
+ display: inline;
+ margin-left: 35px;
+}
+.playstore{
+   background-image: linear-gradient(-180deg, rgb(255, 255, 255), rgb(255, 255, 255) 30%, rgb(240, 242, 247) 15%, rgb(240, 242, 247) 85%);
+
+   display: flex;
+   position: relative;
+   top: 20px;
+   left:250px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.app h3{
+   margin-top: 120px;
+   font-size: 22px;
+   position: relative;
+   left: 10px;
+}
+
+.lnk-logo{
+   position: relative;
+   left: 50px;
+}
+ .shadow.row .col-md-2 {
+   background: rgb(255, 255, 255);
+    border-radius: 4px;
+    padding: 20px 16px 16px;
+    position: relative;
+    top: 20px;
+    box-shadow: rgb(0 0 0 / 6%) 0px 4px 7px;
+}
+
+.table{
+   position: relative;
+   left: 50px;
+   top: 50px;
+}
+
+
+.container .row{
+   margin-top: 60px;
+}
+hr{
+   border: 2px;
+}
+
+.container-fluid {
+   background-color: rgb(23, 30, 48);
+
+
+ 
+}
+
+.footer b{
+   font-size: 16px;
+   font-weight: 700;
+   line-height: 20px;
+   color: #fff;
+}
+.footer p {
+   margin-top: 50px;
+   font-weight: 500px;
+    line-height: 24px;
+    color: rgb(183, 186, 195);
+    
+}
+hr{
+  
+   height: 2px;
+   background-color: #fff;
+}
+.text-color{
+   color: #fff;
+   position: relative;
+   top: 20px;
+   
+}
+.text-color,h6{
+   justify-content: space-between;
+   
+}
+
+.row img{
+    margin-left: 50px;   
+}
+.modal-body{
+   width: 100px;
+}
+.search-box input{
+   
+   width: 100%;
+   border-radius: 10px;
+   border-color: #ed3737;
+   position: relative;
+   top: 10px;
+
+
+}
+.row {
+   margin-bottom: 50px;
+}
+
+.sign-in{
+   position: relative;
+   left: 30px;
+}
+.modal-body-2 img {
+   margin-left: 20px;
+   margin-bottom: 30px;
+}
+form label{
+      margin-top: 20px;
+}
+.modal-footer{
+   justify-content: center;
+}
+
+
+a{
+   text-decoration: none;
+
+}
+.area  a{
+   color: #000;
+}
